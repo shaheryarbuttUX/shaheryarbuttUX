@@ -25,8 +25,8 @@ A few things I built to show the code side of my design work:
 
 | Repo | What it is |
 |------|-----------|
-| [html-email-templates]([./html-email-templates](https://github.com/shaheryarbuttUX/html-email-templates)) | 5 responsive, production-ready HTML email templates (table layouts, inline CSS, Outlook-safe) |
-| [design-tokens]([./design-tokens](https://github.com/shaheryarbuttUX/design-tokens)) | A real design-token set: colors, type, spacing as JSON + CSS variables |
+| [html-email-templates]((https://github.com/shaheryarbuttUX/html-email-templates)) | 5 responsive, production-ready HTML email templates (table layouts, inline CSS, Outlook-safe) |
+| [design-tokens]((https://github.com/shaheryarbuttUX/design-tokens)) | A real design-token set: colors, type, spacing as JSON + CSS variables |
 
 ## Currently
 
